@@ -1,6 +1,7 @@
-![Python Hello World](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/48a9fdbd67c84a328a9df9ec8d93b9ac2458ac37721d7d53e51a27fb2bdc5263.jpg)
+# **Python**
 
+**General**
+Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace.
 
-**Python**
-
-
+This project is all about Python with a few C projects. The projects included in this project are:
+     * 0x00-python-hello_world
