@@ -1,2 +1,2 @@
 #!/usr/bin/python
-print("#pythoniscool", end= '\n ')
+print("#pythoniscool", end= '\n')
