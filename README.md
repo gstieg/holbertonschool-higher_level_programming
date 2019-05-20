@@ -9,3 +9,5 @@ This project is all about Python with a few C projects. The projects included in
      * 0x01-python-if_else_loops_functions
      * 0x02-python-import_modules
      * 0x03-python-data_structures
+     * 0x04. Python - More Data Structures: Set, Dictionary
+     * 0x05. Python - Exceptions 
