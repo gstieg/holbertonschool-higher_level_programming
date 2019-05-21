@@ -3,13 +3,13 @@
 
 class Square:
     """Square Class
-    Args: size : size of square.
-    Attributes: size - square size.
+    Args:  size of square.
+    Attributes:  square size.
     """
     def __init__(self, size):
         """Instantiation Class
         Args: size of
-        Attributes: _size(int) size of
+        Attributes: size of
         """
-        self._size = size
+        self.__size = size
         """Size Class"""
