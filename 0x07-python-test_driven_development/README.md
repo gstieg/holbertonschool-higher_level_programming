@@ -1,6 +1,6 @@
 # **0x07. Python - Test-driven development**
 
-! [test-driven development](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
+![test-driven development](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
 **Resources**
 
