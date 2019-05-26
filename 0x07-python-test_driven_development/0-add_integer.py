@@ -3,6 +3,7 @@
 this  adds 2 integers.
 """
 
+
 def add_integer(a, b=98):
     """
     a and b must be integers or floats, otherwise raise a TypeError exception
