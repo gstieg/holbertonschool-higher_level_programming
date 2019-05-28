@@ -38,8 +38,9 @@
      * How does Python find the attributes of an object or class
      * How to use the getattr function
 
-General
-    *Allowed editors: vi, vim, emacs
+**Genera**l
+
+    * Allowed editors: vi, vim, emacs
     * All your files will be interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3)
     * All your files should end with a new line
     * The first line of all your files should be exactly #!/usr/bin/python3
