@@ -27,7 +27,7 @@ class Rectangle:
         return self.__height
 
     @height.setter
-    def height(self,value):
+    def height(self, value):
         """sets height"""
         if type(value) is not int:
             raise TypeError("height must be an integer")
@@ -50,10 +50,14 @@ class Rectangle:
             return empty
         empty = ""
         empty = (('#' * self.__width + '\n') * self.__height)
-        empty = empty [:-1]
+        empty = empty[:-1]
         return empty
+
     def __repr__(self):
-        """return a string representation of the rectangle to be able to recreate a new instance """
+
+        """return a string representation of the rectangle to be able to
+        recreate a new instance """
         return "Rectangle({}, {})".format(self.__width, self.__height)
+
     def __del__(self):
         print("Bye rectangle...")
