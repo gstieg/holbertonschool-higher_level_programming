@@ -1,5 +1,3 @@
-![almost a circle](https://twitter.com/tyastropheus/status/1059235490883231744/photo/1)
-
 # **0x0C. Python - Almost a circle**
 
 **In this project, you will review everything about Python:**
