@@ -1,4 +1,4 @@
-!
+![More Queries](cat.jpg)
 
 # **0x0E-SQL More Queries**
 
