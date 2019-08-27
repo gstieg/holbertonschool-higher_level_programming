@@ -7,7 +7,7 @@ from sys import argv
 if __name__ == "__main__":
     try:
         new = requests.get("https://api.github.com/user",
-                           auth=(argv[1], argv[2])).json()
-        print(new.get('id'))
+                           auth=(argv[1], argv[2]))
+        print(new.json.get('id'))
     except:
         print("None")
