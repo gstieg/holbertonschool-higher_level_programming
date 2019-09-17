@@ -1,6 +1,6 @@
 # **0x12. Javascript - Warm up**
 
-![JS]()
+![JS](js.jpeg)
 
 # **Resources**
 
