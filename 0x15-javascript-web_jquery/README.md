@@ -1,6 +1,6 @@
 # **0x15. Javascript - Web JQuery**
 
-![Web JQuery]()
+![Web JQuery](jquery.png)
 
 # **Resources**
 
