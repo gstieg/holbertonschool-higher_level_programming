@@ -45,3 +45,5 @@ toward the end of the rep "AirBnB Clone". The projects included in this reposito
   * 0x03. AirBnB clone - Deploy static [Aug 19 19...Aug 20 19]
   * 0x04. AirBnB clone - Web framework [Aug 29 19...Sep 5 19]
   * 0x05. AirBnB clone - RESTful API [Sep 9 19...Sep 13 19]
+
+Authors: Grayson Stiegler [Email](682@holbertonschool.com) / [Twitter](@gstieg0809)
